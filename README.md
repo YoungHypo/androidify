@@ -19,6 +19,13 @@ Androidify iOS is an AI-driven Android robot image generation application that a
 - 🎯 **Intuitive User Interface** - A modern, responsive interface built with SwiftUI
 - 🔒 **Secure and Reliable** - Integrates Firebase App Check to protect API calls
 
+### 🎤 Demo
+
+<p>
+  <img src="https://github.com/user-attachments/assets/e61d8190-d5c9-4dfe-a267-34c979e14e2b" alt="Screenshot 1" width="380"/>
+  <img src="https://github.com/user-attachments/assets/c2f7e5a8-8cc5-4f27-a20f-c0c563e2003c" alt="Screenshot 2" width="380"/>
+</p>
+
 ## 🚀 Quick Start
 
 ### Installation Steps
