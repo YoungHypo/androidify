@@ -98,7 +98,11 @@ yarn-error.*
 # local env files
 .env*.local
 
+.env
+
 # typescript
 *.tsbuildinfo
 
 app-example
+
+.vscode/
